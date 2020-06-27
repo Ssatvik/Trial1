@@ -5,5 +5,5 @@ line4
 merge line 1 master
 merge line 2 master
 merge line 1 mergebranch1
-merge line 2 mergebranch2
+merge line 2 mergebranch2#mergebranch
 changes mergebranch
